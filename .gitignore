@@ -1,0 +1,4 @@
+# Archivos de Docker
+*.log
+docker-compose.override.yml
+.env
