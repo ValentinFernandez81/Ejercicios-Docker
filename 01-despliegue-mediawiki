@@ -1,7 +1,0 @@
-# Descripción del ejercicio
-
-
-En este ejercicio aprendo a desplegar una instancia de MediaWiki.
-
-Utilizaré la imagen oficial que se encuentra disponible en Docker Hub: 
-[Link a la imagen:](https://hub.docker.com/_/mediawiki)
